@@ -1,0 +1,9 @@
+pandas
+numpy
+mlxtend
+scikit-learn
+fastapi
+uvicorn
+deep-translator
+rapidfuzz
+openpyxl
